@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "nx-task-management": "apps/nx-task-management",
+    "nx-task-management-e2e": "apps/nx-task-management-e2e"
+  }
+}
